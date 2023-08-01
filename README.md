@@ -47,19 +47,19 @@
 <br>
 
 - ✨ I specialise in:
-  * __Python__
-  * __SQL__
-  * __Excel & VBA__
-  * __Pyspark Ecosystem__
-  * __Tableau__
-  * __Alteryx__
+  * [__Python__](https://github.com/MaxineXiong?tab=repositories&q=python&type=&language=&sort=)
+  * [__SQL__](https://github.com/MaxineXiong?tab=repositories&q=sql&type=&language=&sort=)
+  * [__Excel & VBA__](https://github.com/MaxineXiong?tab=repositories&q=vba&type=&language=&sort=)
+  * [__Pyspark Ecosystem__](https://github.com/MaxineXiong?tab=repositories&q=spark&type=&language=&sort=)
+  * [__Tableau__](https://public.tableau.com/app/profile/maxine1212)
+  * [__Alteryx__](https://community.alteryx.com/t5/forums/recentpostspage/post-type/message/user-id/103689/page/1)
   * __Power BI__
   * __UiPath RPA__
-  * __SAS 9.4 Base Programming__
+  * [__SAS 9.4 Base Programming__](https://github.com/MaxineXiong?tab=repositories&q=sas&type=&language=&sort=)
   * __Machine Learning & Neural Network__
   * __Data Engineering__
-  * __Data Structures & Algorithms__
-  * __HTML5 & CSS3__
+  * [__Data Structures & Algorithms__](https://github.com/MaxineXiong?tab=repositories&q=route-planning-algorithm&type=&language=&sort=)
+  * [__HTML5 & CSS3__](https://github.com/MaxineXiong?tab=repositories&q=html5&type=&language=&sort=)
   * __Git & GitHub__
   * __Prompt Engineering__
     
