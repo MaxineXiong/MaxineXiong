@@ -67,7 +67,7 @@
   
 - 📃 You can read my blog posts [here](https://medium.com/@maxinexiong2)
 
-- 💡 Open to collaborating on projects and innovative ideas. 
+- 💡 Open to collaborating on projects and innovative ideas
 
 - 📫 How to reach me: maxinexiong2@gmail.com
 
