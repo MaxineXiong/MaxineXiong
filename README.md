@@ -63,7 +63,7 @@
   * __Git & GitHub__
   * __Prompt Engineering__
     
-- 💼 My past projects are on my portfolio website - [Maxine's Tech Gallery](https://maxinexiong.github.io/)
+- 💼 My past projects and certifications are on my portfolio website - [Maxine's Tech Gallery](https://maxinexiong.github.io/)
   
 - 📃 You can read my blog posts [here](https://medium.com/@maxinexiong2)
 
