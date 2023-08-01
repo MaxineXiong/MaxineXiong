@@ -46,40 +46,40 @@
 
 <br>
 
+- ✨ I specialise in:
+  * __Python__
+  * __SQL__
+  * __Excel & VBA__
+  * __Pyspark Ecosystem__
+  * __Tableau__
+  * __Alteryx__
+  * __Power BI__
+  * __UiPath RPA__
+  * __SAS 9.4 Base Programming__
+  * __Machine Learning & Neural Network__
+  * __Data Engineering__
+  * __Data Structures & Algorithms__
+  * __HTML5 & CSS3__
+  * __Git & GitHub__
+  * __Prompt Engineering__
+    
+- 💼 My past projects are on my portfolio website - [Maxine's Tech Gallery](https://maxinexiong.github.io/)
+  
+- 📃 You can read my blog posts [here](https://medium.com/@maxinexiong2)
+
+- 💡 Open to collaborating on projects and innovative ideas. 
+
+- 📫 How to reach me: maxinexiong2@gmail.com
 
 
-<!--
-**MaxineXiong/MaxineXiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxineXiong)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
-
-
-
-</p>
-
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
-
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
-
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
 
 ### 🖥️ Open-Source Projects
 <table>
