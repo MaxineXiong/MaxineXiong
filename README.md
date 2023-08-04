@@ -81,7 +81,7 @@
 
 
 
-### 🖥️ Open-Source Projects
+### :computer: Open Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
