@@ -54,7 +54,7 @@
   * [__Tableau__](https://public.tableau.com/app/profile/maxine1212)
   * [__Alteryx__](https://community.alteryx.com/t5/forums/recentpostspage/post-type/message/user-id/103689/page/1)
   * __Power BI__
-  * __UiPath RPA__
+  * [__UiPath RPA__](https://github.com/MaxineXiong?tab=repositories&q=rpa&type=&language=&sort=)
   * [__SAS 9.4 Base Programming__](https://github.com/MaxineXiong?tab=repositories&q=sas&type=&language=&sort=)
   * __Machine Learning & Neural Network__
   * __Data Engineering__
