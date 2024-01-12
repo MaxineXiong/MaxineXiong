@@ -3,23 +3,13 @@
 ### I'm Maxine Xiong
 **A Data Professional and Automation Specialist**
 
-<a href="https://maxinexiong.github.io/">
-    <img src="https://img.shields.io/badge/website-Maxine's.Tech.Gallery-blue?style=flat-square&color=7289DA">
-</a>  
-<a href="https://maxinexiong.github.io/resume.html">
-    <img src="https://img.shields.io/badge/view-Resume-red?style=flat-square">
-</a>
-<a href="mailto:maxinexiong2@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/maxinexiong/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="https://medium.com/@maxinexiong2">
-    <img src="https://img.shields.io/badge/Blog-000000?logo=medium">
-</a>
 
 
+[![Website](https://img.shields.io/badge/website-Maxine's.Tech.Gallery-blue?style=flat-square&color=7289DA)](https://maxinexiong.github.io/)
+[![Resume](https://img.shields.io/badge/view-Resume-red?style=flat-square)](https://maxinexiong.github.io/resume.html)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:maxinexiong2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maxinexiong/)
+[![Medium](https://img.shields.io/badge/Blog-000000?logo=medium)](https://medium.com/@maxinexiong2)
 
 <br/><br/>
 
