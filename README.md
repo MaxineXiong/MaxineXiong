@@ -30,7 +30,7 @@
 <br/>
 
 <details>
-<summary>📈 Click to view my GitHub Stats </summary>
+<summary>📈 Click to view my full GitHub Stats </summary>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxinexiong&theme=discord_old_blurple) 
