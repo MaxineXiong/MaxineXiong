@@ -5,7 +5,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/website-Maxine's.Tech.Gallery-blue?style=flat-square&color=7289DA)](https://maxinexiong.github.io/)
+[![Website](https://img.shields.io/badge/website-Maxine's.Tech.Gallery-blue?style=flat-square&color=6699FF)](https://maxinexiong.github.io/)
 [![Resume](https://img.shields.io/badge/view-Resume-red?style=flat-square)](https://maxinexiong.github.io/resume.html)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:maxinexiong2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maxinexiong/)
