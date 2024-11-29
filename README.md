@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 ### I'm Maxine Xiong
-**A Data Professional and Automation Specialist**
+**A Full-Stack Data Professional and Automation Specialist**
 
 
 
