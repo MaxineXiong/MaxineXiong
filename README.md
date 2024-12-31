@@ -72,7 +72,7 @@
 
 
 
-### :computer: Open Source Projects
+<!--### :computer: Open Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
@@ -121,5 +121,5 @@
 | [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
 | [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
 
-</td></tr> </table>
+</td></tr> </table>-->
 
