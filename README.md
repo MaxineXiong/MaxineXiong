@@ -1,7 +1,8 @@
-#### Hi there 👋
+### Hi there 👋
 
-### I'm Maxine Xiong
-**A Full-Stack Data Professional and Automation Specialist**
+# I'm Maxine Xiong
+
+### **A Full-Stack Data Professional and Automation Specialist**
 
 
 
@@ -11,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maxinexiong/)
 [![Medium](https://img.shields.io/badge/Blog-000000?logo=medium)](https://medium.com/@maxinexiong2)
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/maxinexiong">
     <img src="https://github-stats-alpha.vercel.app/api?username=maxinexiong&cc=313338&tc=fff&ic=7289DA&bc=0000">
@@ -29,8 +30,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxinexiong&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxinexiong&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxinexiong&theme=discord_old_blurple&utcOffset=8)
-
-<br>
 
 </details>
 
