@@ -45,7 +45,7 @@
   * [__Power BI__](https://maxinexiong.github.io/projects/power-bi.html)
   * [__UiPath RPA__](https://github.com/MaxineXiong?tab=repositories&q=rpa&type=&language=&sort=)
   * [__SAS 9.4 Base Programming__](https://github.com/MaxineXiong?tab=repositories&q=sas&type=&language=&sort=)
-  * __Machine Learning & Neural Network__
+  * __Machine Learning__
   * [__Data Analytics__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
   * [__Analytics Engineering (with _dbt_)__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
   * [__Data Engineering__](https://github.com/MaxineXiong?tab=repositories&q=data-engineering&type=&language=&sort=)
