@@ -2,7 +2,7 @@
 
 # I'm Maxine Xiong
 
-### **A Full-Stack Data Professional and Automation Specialist**
+### **A Financial Data Professional and Automation Specialist**
 
 
 
