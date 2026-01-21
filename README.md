@@ -40,6 +40,7 @@
   * [__SQL__](https://github.com/MaxineXiong?tab=repositories&q=sql&type=&language=&sort=)
   * [__Excel & VBA__](https://github.com/MaxineXiong?tab=repositories&q=vba&type=&language=&sort=)
   * [__Pyspark Ecosystem__](https://github.com/MaxineXiong?tab=repositories&q=spark&type=&language=&sort=)
+  * __Microsoft Fabric__
   * [__Tableau__](https://public.tableau.com/app/profile/maxine1212)
   * [__Alteryx__](https://community.alteryx.com/t5/forums/recentpostspage/post-type/message/user-id/103689/page/1)
   * [__Power BI__](https://maxinexiong.github.io/projects/power-bi.html)
