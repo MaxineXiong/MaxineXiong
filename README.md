@@ -39,7 +39,7 @@
   * [__Python__](https://github.com/MaxineXiong?tab=repositories&q=python&type=&language=&sort=)
   * [__SQL__](https://github.com/MaxineXiong?tab=repositories&q=sql&type=&language=&sort=)
   * [__Excel & VBA__](https://github.com/MaxineXiong?tab=repositories&q=vba&type=&language=&sort=)
-  * [__Apache Spark__](https://github.com/MaxineXiong?tab=repositories&q=spark&type=&language=&sort=)
+  * [__Apache Spark (PySpark)__](https://github.com/MaxineXiong?tab=repositories&q=spark&type=&language=&sort=)
   * __Microsoft Fabric__
   * [__Tableau__](https://public.tableau.com/app/profile/maxine1212)
   * [__Alteryx__](https://community.alteryx.com/t5/forums/recentpostspage/post-type/message/user-id/103689/page/1)
