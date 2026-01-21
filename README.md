@@ -39,20 +39,21 @@
   * [__Python__](https://github.com/MaxineXiong?tab=repositories&q=python&type=&language=&sort=)
   * [__SQL__](https://github.com/MaxineXiong?tab=repositories&q=sql&type=&language=&sort=)
   * [__Excel & VBA__](https://github.com/MaxineXiong?tab=repositories&q=vba&type=&language=&sort=)
+  * [__Power BI & DAX__](https://maxinexiong.github.io/projects/power-bi.html)
   * [__Apache Spark (PySpark)__](https://github.com/MaxineXiong?tab=repositories&q=spark&type=&language=&sort=)
   * __Microsoft Fabric__
+  *  [__Data Analytics__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
+  *  [__Analytics Engineering__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
+  *  [__Data Engineering__](https://github.com/MaxineXiong?tab=repositories&q=data-engineering&type=&language=&sort=)
+  *  __Machine Learning__
   * [__Tableau__](https://public.tableau.com/app/profile/maxine1212)
   * [__Alteryx__](https://community.alteryx.com/t5/forums/recentpostspage/post-type/message/user-id/103689/page/1)
-  * [__Power BI & DAX__](https://maxinexiong.github.io/projects/power-bi.html)
+  * __Git & GitHub__
   * [__UiPath RPA__](https://github.com/MaxineXiong?tab=repositories&q=rpa&type=&language=&sort=)
   * [__SAS 9.4 Base Programming__](https://github.com/MaxineXiong?tab=repositories&q=sas&type=&language=&sort=)
-  * __Machine Learning__
-  * [__Data Analytics__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
-  * [__Analytics Engineering__](https://medium.com/@maxinexiong2/technical-deep-dive-enhancing-retail-online-sales-through-customer-retention-analysis-676cfce8f1ad)
-  * [__Data Engineering__](https://github.com/MaxineXiong?tab=repositories&q=data-engineering&type=&language=&sort=)
   * [__Data Structures & Algorithms__](https://github.com/MaxineXiong?tab=repositories&q=route-planning-algorithm&type=&language=&sort=)
   * [__HTML5 & CSS3__](https://github.com/MaxineXiong?tab=repositories&q=html5&type=&language=&sort=)
-  * __Git & GitHub__
+  
     
 - 💼 My past projects and certifications are on my portfolio website - [__Maxine's Tech Gallery__](https://maxinexiong.github.io/)
   
